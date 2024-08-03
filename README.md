@@ -7,5 +7,5 @@
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFwNHUxcHl1bzl2emdjd3g2MnZ3MHkxZnN0NXc0dWs5aTRsaTA5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" />
+ <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtrOTdpbGpidWt1enphbjZ2azA5bTZqcThlN2hxd3RqbXZpdzZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif" />
 </div>
