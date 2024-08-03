@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**MouhamedNdour/MouhamedNdour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi <img src="https://github.com/MouhamedNdour/MouhamedNdour/blob/main/icons/Hi.gif" width="28px"/>, I'm Mouhamed</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?MouhamedNdour=[MouhamedNdour]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFwNHUxcHl1bzl2emdjd3g2MnZ3MHkxZnN0NXc0dWs5aTRsaTA5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" />
+</div>
