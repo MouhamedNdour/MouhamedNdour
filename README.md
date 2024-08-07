@@ -15,11 +15,4 @@
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **.NET, and Angular** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
-</details>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
